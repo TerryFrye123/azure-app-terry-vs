@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'azure-app-terry-vs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6186DA9BF487419DBD52C46932463C69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95F762A962934965BD7F498843A118D2 }}
           package: .
